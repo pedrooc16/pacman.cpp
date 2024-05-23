@@ -1,9 +1,3 @@
-/*
- * Actor.cpp
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
 
 
 #include "Actor.h"
